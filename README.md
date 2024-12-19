@@ -38,7 +38,7 @@ As a junior data analyst at Cyclistic, I have been tasked with the first objecti
 2.  Cyclistic executive team
 3.  Cyclistic marketing analytics team
 
-# STEP: Prepare Phase
+# STEP 2: Prepare Phase
 
 ## Data Location
 
