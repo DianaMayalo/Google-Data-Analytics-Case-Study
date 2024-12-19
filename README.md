@@ -278,7 +278,9 @@ From Fig. 4 above the average ride length for all bike types was on weekends for
 ### 1. Casual Riders
 
 #### Start station names: 
+![](casualStart.jpg)
 
+The top 5 start station names for casual riders were: 
 1.  Streeter Dr & Grand Ave
 
 2.  DuSable Lake Shore Dr & Monroe St
@@ -289,8 +291,10 @@ From Fig. 4 above the average ride length for all bike types was on weekends for
 
 5.  DuSable Lake Shore Dr & North Blvd
 
-#### End station names:  
+#### End station names: 
+![](casualEnd.jpg)
 
+The top 5 end station names for casual riders were: 
 1.  Streeter Dr & Grand Ave
 
 2.  DuSable Lake Shore Dr & Monroe St
@@ -304,7 +308,9 @@ From Fig. 4 above the average ride length for all bike types was on weekends for
 ### 2. Member Riders
 
 #### Start station names
+![](memberStart.jpg)
 
+The top 5 start station names for member riders were: 
 1.  Kingsbury St & Kinzie St
 
 2.  Clark St & Elm St
@@ -316,7 +322,9 @@ From Fig. 4 above the average ride length for all bike types was on weekends for
 5.  Clinton St & Washington Blvd
 
 #### End station names 
+![](memberEnd.jpg)
 
+The top 5 end station names for member riders were: 
 1.  Kingsbury St & Kinzie St
 
 2.  Clark St & Elm St
