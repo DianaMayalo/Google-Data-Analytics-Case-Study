@@ -1,4 +1,4 @@
-# Google-Data-Analytics-Case-Study: How Does A Bike-Share Navigate Speedy Success (With R and Tableau)# Google Data Analytics Case Study: How Does A Bike-Share Navigate Speedy Success (With R and Tableau)
+# Google-Data-Analytics-Case-Study: How Does A Bike-Share Navigate Speedy Success (With R and Tableau)
 
 After completing the Google Data Analytics Certification course, I am now ready to tackle a case study provided by Google. I will use real-world data to perform a task as a junior data analyst for a fictional company, Cyclistic. The case study involves the company's data on its customers' trip details over a 12-month period (Jan 2022 – Dec 2022). I will follow Google’s six steps of the Data Analysis Process: Ask, Prepare, Process, Analyze, Share, and Act. For this project, I will use R and Tableau for my analysis.
 
