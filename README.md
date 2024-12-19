@@ -1,5 +1,7 @@
 # Google-Data-Analytics-Case-Study: How Does A Bike-Share Navigate Speedy Success (With R and Tableau)
 
+![Logo](logo2.jpg)
+
 After completing the ![Google Data Analytics Certification course](https://www.coursera.org/professional-certificates/google-data-analytics), I am now ready to tackle a case study provided by Google. I will use real-world data to perform a task as a junior data analyst for a fictional company, Cyclistic. The case study involves the company's data on its customers' trip details over a 12-month period (Jan 2022 – Dec 2022). I will follow Google’s six steps of the Data Analysis Process: Ask, Prepare, Process, Analyze, Share, and Act. For this project, I will use R and Tableau for my analysis.
 
 ## Background of the case study
@@ -123,7 +125,7 @@ combined_df <- bind_rows(df1, df2, df3, df4, df5, df6, df7, df8, df9, df10, df11
 glimpse(combined_df)
 head(combined_df)
 ```
-# Combined dataset picture
+![Combined Dataset](Combined dataset.jpg)
 
 Description of the dataset
 
@@ -190,7 +192,7 @@ Cyclistic_data$day_of_the_week <- ordered(Cyclistic_data$day_of_the_week,
 str(Cyclistic_data)
 ```
 
-# Added columns
+![Added columns](Added columns.jpg)
 
 # STEP 4: Analyze Phase
 
@@ -208,7 +210,7 @@ Cyclistic_data2 <- Cyclistic_data2 %>%
 ```{r Mean of ride_length}
 summary(Cyclistic_data2$ride_length)
 ```
-# Mean ride_length
+![Mean Ride Length}(Mean ride length.jpg)
 
 ## Key Insights from the Analyze Phase
 1. Ride Duration:
@@ -233,27 +235,29 @@ I used Tableau for this phase to create visualizations.
 
 ## Members vs casual riders (average ride length)
 
-![***Fig. 1***](Fig. 1.png)
+![Fig. 1](Fig. 1.jpg)
 
 The average ride length for members is 743.5 and 1309.8 for casual riders, as shown in fig.1 above. This shows that casual riders had the longest rides compared to member riders.
 
 ## Average Ride Length by Bike Type
 
-![***Fig. 2***](Fig. 2.png)
+![Fig. 2](Fig. 2.jpg)
 
 As shown by figure 2, on average, casual riders who used docked bikes had the longest rides whereas annual members did not use the docked bikes at all.
 
 ## Average Ride Length by Day of the Week
 
-![***Fig. 3***](Fig. 3.png)
+![Fig. 3](Fig. 3.jpg)
 
 On average, casual riders ride bikes for longer periods every day of the week compared to riders with annual memberships as shown in figure 3 above. Weekends have the longest travelled distance by both casual riders and annual members.
 
 ## Average Ride Length by Bike Type by Day of the Week
 
-![***Fig. 4***](Fig. 4.png)
+![Fig. 4](Fig. 4.jpg)
 
 From Fig. 4 above the average ride length for all bike types was on weekends for both casual riders and annual members. For docked bikes, the highest average ride length for casual riders was on Sunday.
+
+![Dashboard](Cyclistic Bikes Dashboard.jpg)
 
 # STEP 6: Act Phase
 
